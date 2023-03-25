@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"academy.prog.lesson3","l":"AccuracyCalculations"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"academy.prog.lesson1","l":"Main"},{"p":"academy.prog.lesson3","l":"OperatorsJava"},{"p":"academy.prog.lesson4","l":"Promote"},{"p":"academy.prog.lesson2","l":"TypeCasting"}];updateSearchResults();

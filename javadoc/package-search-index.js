@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"academy.prog.lesson1"},{"l":"academy.prog.lesson2"},{"l":"academy.prog.lesson3"},{"l":"academy.prog.lesson4"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
